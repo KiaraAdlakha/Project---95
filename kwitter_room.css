@@ -1,0 +1,23 @@
+.btn img{
+    height: 50px;
+    width: 50px;
+}
+#btn
+{
+    float: right;
+}
+body
+{
+    text-align: center !important;
+    background: linear-gradient(skyblue 0%, lightgreen 100%);
+}
+#output
+{
+    margin-top: 20px;
+    background-color: rgb(170, 166, 166);
+    border-radius: 20px;
+}
+.container
+{
+   text-align: center; 
+}
